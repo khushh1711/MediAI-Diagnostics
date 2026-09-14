@@ -94,8 +94,8 @@ capstone-healthcare-ai/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Hamzah1507/AI-Powered-Multimodal-Healthcare-Diagnosis-Clinical-Risk-Prediction-System.git
-cd AI-Powered-Multimodal-Healthcare-Diagnosis-Clinical-Risk-Prediction-System
+git clone https://github.com/khushh1711/MediAI-Diagnostics.git
+cd MediAI-Diagnostics.git
 ```
 
 ### 2. Backend Setup
@@ -172,7 +172,3 @@ npm run dev
 This project is built for **research and educational purposes only**. It is **not intended for real clinical use**. Always consult a qualified medical professional for diagnosis and treatment.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
